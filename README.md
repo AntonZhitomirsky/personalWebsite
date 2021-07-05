@@ -1,7 +1,6 @@
 # Personal Website
 
-What your application does:
-This is the source code for the my personal website that is hosted on https://www.doc.ic.ac.uk/~az620
+Source code for the my personal website that is hosted on (https://www.doc.ic.ac.uk/~az620)
 
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
