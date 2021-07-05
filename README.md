@@ -1,4 +1,11 @@
-# personalWebsite
+# Personal Website
 
+What your application does,
+Why you used the technologies you used,
+Some of the challenges you faced and features you hope to implement in the future.
 
-A repository to contain the code for my personal website that will host some of the projects that I will create, resumes, extra curricular, and more.
+What was your motivation?
+Why did you build this project?
+What problem does it solve?
+What did you learn?
+What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.
